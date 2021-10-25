@@ -9,3 +9,5 @@ class Calculate {
 
 $tri = new calcTriangleArea;
 echo $tri->calcTriangleArea(5,3);
+
+?>
